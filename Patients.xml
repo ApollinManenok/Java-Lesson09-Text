@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Registry>
+	<Patient>
+		<Name>Elvis</Name>
+		<Surname>Presley</Surname>
+		<Birth>8.1.1935</Birth>
+		<Status>true</Status>
+	</Patient>
+	<Patient>
+		<Name>Tim</Name>
+		<Surname>Berners-Lee</Surname>
+		<Birth>8.6.1955</Birth>
+		<Status>false</Status>
+	</Patient>
+	<Patient>
+		<Name>Louis</Name>
+		<Surname>Armstrong</Surname>
+		<Birth>4.8.1901</Birth>
+		<Status>false</Status>
+	</Patient>
+	<Patient>
+		<Name>Charles</Name>
+		<Surname>Chaplin</Surname>
+		<Birth>16.04.1889</Birth>
+		<Status>true</Status>
+	</Patient>
+</Registry>
